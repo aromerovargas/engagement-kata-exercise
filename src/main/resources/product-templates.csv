@@ -1,0 +1,4 @@
+id,name,version,content
+1,Basic Template,1.0,"{""fields"":[""title"",""description""]}"
+2,Standard Template,1.0,"{""fields"":[""title"",""description"",""price""]}"
+3,Premium Template,2.0,"{""fields"":[""title"",""description"",""price"",""images""],""featured"":true}"
